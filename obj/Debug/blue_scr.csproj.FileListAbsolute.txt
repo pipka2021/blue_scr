@@ -1,0 +1,10 @@
+C:\Users\пользователь\source\repos\blue_scr\bin\Debug\blue_scr.exe.config
+C:\Users\пользователь\source\repos\blue_scr\bin\Debug\blue_scr.exe
+C:\Users\пользователь\source\repos\blue_scr\bin\Debug\blue_scr.pdb
+C:\Users\пользователь\source\repos\blue_scr\obj\Debug\blue_scr.csprojAssemblyReference.cache
+C:\Users\пользователь\source\repos\blue_scr\obj\Debug\blue_scr.Form1.resources
+C:\Users\пользователь\source\repos\blue_scr\obj\Debug\blue_scr.Properties.Resources.resources
+C:\Users\пользователь\source\repos\blue_scr\obj\Debug\blue_scr.csproj.GenerateResource.cache
+C:\Users\пользователь\source\repos\blue_scr\obj\Debug\blue_scr.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\source\repos\blue_scr\obj\Debug\blue_scr.exe
+C:\Users\пользователь\source\repos\blue_scr\obj\Debug\blue_scr.pdb
